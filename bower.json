@@ -1,0 +1,31 @@
+{
+  "name": "shapefileio-tools",
+  "version": "0.0.0",
+  "authors": [
+    "support@shapefile.io"
+  ],
+  "description": "Shapefile.io Tools",
+  "main": "index.html",
+  "keywords": [
+    "shapefile",
+    "gis",
+    "geography",
+    "mapping"
+  ],
+  "license": "MIT",
+  "homepage": "http://tools.shapefile.io/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "~4.4.0",
+    "jquery": "~2.1.4",
+    "skeleton": "~2.0.4",
+    "skeleton-tabs": "~1.0.0"
+  }
+}

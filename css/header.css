@@ -1,0 +1,50 @@
+.button.no-border {
+    border: none;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.header {
+    background-color: #F5F5F5;
+    padding: 6px 0;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #E5E5E5;
+}
+
+.nav h5 {
+    margin-bottom: 0;
+    font-size: 20px;
+    line-height: 36px;
+}
+
+.nav h5 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nav .button {
+    margin-left: 12px;
+    margin-bottom: 0;
+    margin-right: 12px;
+}
+
+.nav .button.no-border:hover {
+    color: #0FA0CE;
+}
+
+.nav .button.icon {
+    margin-left: 12px;
+    margin-right: 0;
+}
+
+.nav .button.icon .fa {
+    font-size: 16px;
+}
+
+.nav a.button:first-of-type {
+    margin-right: 0;
+}
+
+ul.tab-nav {
+    padding-left: 0;
+}
